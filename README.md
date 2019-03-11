@@ -1,5 +1,5 @@
 # force-touch-recognizer
-Simple classes for handle of 3D Touch &amp; Force Touch on Swift.
+Simple classes for handle of 3D Touch &amp; Force Touch in Swift.
 
 Simply handle force touch on your swift project bassed `UIGestureRecognizer`
 
